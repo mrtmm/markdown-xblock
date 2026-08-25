@@ -6,10 +6,9 @@ build-backend = "setuptools.build_meta"
 name = "markdown-xblock"
 dynamic = ["version"]
 dependencies = [
-    "XBlock>=5.2,<6",
-    "markdown2>=2.3.9",
+    "XBlock>=5.2,<7",
+    "markdown2>=2.5.4",
     "Pygments>=2.0.1",
-    "lxml-html-clean>=0.4.3"
 ]
 requires-python = ">=3.11"
 description = "Markdown XBlock provides editing course content in Markdown."

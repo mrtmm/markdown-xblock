@@ -6,4 +6,4 @@ mock<6
 
 # Github requirements
 openedx-django-pyfs>=3.8.0
-XBlock>=5.2,<6
+XBlock>=5.2,<7
